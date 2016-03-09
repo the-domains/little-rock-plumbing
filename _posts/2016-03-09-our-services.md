@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kitchen Plumbing
-datePublished: '2016-03-09T20:47:23.641Z'
-dateModified: '2016-03-09T20:45:52.804Z'
+datePublished: '2016-03-09T21:35:42.984Z'
+dateModified: '2016-03-09T21:35:38.414Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-09-our-services.md
@@ -22,7 +22,7 @@ url: our-services/index.html
 _type: Article
 
 ---
-[Kitchen Plumbing][0]
+Kitchen Plumbing
 
 zzzzzzzzzzzzzzz
 
@@ -31,5 +31,3 @@ aaaaaaaaaaaaaaaaaaa
 qqqqqqqqqqqqqqqqqq
 
 111111111111111111111111111111
-
-[0]: null
