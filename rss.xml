@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Little Rock Plumbing]]></title>
         <description><![CDATA[Little Rock Plumbing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/little-rock-plumbing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 16:46:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 16:53:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/little-rock-plumbing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Specials</p>]]></description>
+            <link>https://thegrid.ai/little-rock-plumbing/specials/index.html</link>
+            <guid isPermaLink="false">0194501f-7345-408a-a14f-7866e07cc446</guid>
+            <pubDate>Wed, 09 Mar 2016 16:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/337f3a62-ef88-4d43-93be-03e1a593a487.jpg">]]></description>
-            <link>undefined34d14b97-61e9-4e6e-bff9-9c82a0c9ed20/index.html</link>
+            <link>https://thegrid.ai/little-rock-plumbing/34d14b97-61e9-4e6e-bff9-9c82a0c9ed20/index.html</link>
             <guid isPermaLink="false">34d14b97-61e9-4e6e-bff9-9c82a0c9ed20</guid>
             <pubDate>Wed, 09 Mar 2016 16:46:38 GMT</pubDate>
         </item>
