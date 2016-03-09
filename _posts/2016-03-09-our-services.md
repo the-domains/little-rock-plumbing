@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T17:48:17.295Z'
-dateModified: '2016-03-09T17:47:30.103Z'
+datePublished: '2016-03-09T17:54:47.888Z'
+dateModified: '2016-03-09T17:54:30.256Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-09-our-services.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-services/index.html
-_type: Article
+_type: WebPage
 
 ---
 Our Services
