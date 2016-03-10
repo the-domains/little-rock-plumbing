@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business. Kevin Shaw Plumbing, Inc. is committed to setting the standard for excellence in plumbing in the San Gabriel Valley. We offer the following when it comes to bathroom plumbing:'
-datePublished: '2016-03-10T21:11:14.599Z'
-dateModified: '2016-03-10T21:11:09.346Z'
+datePublished: '2016-03-10T21:46:55.465Z'
+dateModified: '2016-03-10T21:46:50.957Z'
 title: Bathroom Plumbing
 author: []
 sourcePath: _posts/2016-03-10-your-bathroom-plumbing-contractor-for-san-gabriel-valley.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: your-bathroom-plumbing-contractor-for-san-gabriel-valley/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Bathroom Plumbing
