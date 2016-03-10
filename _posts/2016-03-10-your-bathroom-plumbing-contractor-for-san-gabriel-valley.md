@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business. Kevin Shaw Plumbing, Inc. is committed to setting the standard for excellence in plumbing in the San Gabriel Valley.'
-datePublished: '2016-03-10T22:39:52.446Z'
-dateModified: '2016-03-10T22:39:49.939Z'
+description: Your Little Rock Bathroom Plumber
+datePublished: '2016-03-10T22:42:10.814Z'
+dateModified: '2016-03-10T22:40:47.571Z'
 title: Your Bathroom Plumbing Contractor in Little Rock
 author: []
 sourcePath: _posts/2016-03-10-your-bathroom-plumbing-contractor-for-san-gabriel-valley.md
@@ -26,7 +26,7 @@ _type: Article
 
 Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business. Kevin Shaw Plumbing, Inc. is committed to setting the standard for excellence in plumbing in the San Gabriel Valley.
 
-## Our Little Rock Bathroom Plumbing Contractor Provides:
+## [Our Little Rock Bathroom Plumbing Contractor Provides][0]:
 
 * Angle stops & supply lines
 * Bathtub & Shower units installed
