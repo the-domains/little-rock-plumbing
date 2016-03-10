@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kitchen Plumbing
-datePublished: '2016-03-10T20:57:47.964Z'
-dateModified: '2016-03-10T20:57:43.410Z'
+datePublished: '2016-03-10T21:02:02.787Z'
+dateModified: '2016-03-10T21:01:59.079Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-09-our-services.md
@@ -27,4 +27,4 @@ _type: WebPage
 [Bathroom Plumbing][1]
 
 [0]: https://thegrid.ai/little-rock-plumbing/kitchen-plumbing/
-[1]: https://thegrid.ai/little-rock-plumbing/bathroom-plumbing
+[1]: https://thegrid.ai/little-rock-plumbing/Bathroom-Plumbing
