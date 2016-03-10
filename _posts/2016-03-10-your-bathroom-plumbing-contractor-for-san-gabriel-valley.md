@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Bath
-datePublished: '2016-03-10T22:19:49.125Z'
-dateModified: '2016-03-10T22:16:35.356Z'
-title: Your Bathroom Plumbing Contractor for San Gabriel Valley
+datePublished: '2016-03-10T22:22:06.119Z'
+dateModified: '2016-03-10T22:21:44.509Z'
+title: Your Bathroom Plumbing Contractor in Little Rock
 author: []
 sourcePath: _posts/2016-03-10-your-bathroom-plumbing-contractor-for-san-gabriel-valley.md
 published: true
@@ -22,11 +22,11 @@ url: your-bathroom-plumbing-contractor-for-san-gabriel-valley/index.html
 _type: Article
 
 ---
-[Bath][0]
+Bath
 
 Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business. Kevin Shaw Plumbing, Inc. is committed to setting the standard for excellence in plumbing in the San Gabriel Valley. 
 
-## Our San Gabriel Valley Bathroom Plumbing Contractor Provides:
+## Our Little Rock Bathroom Plumbing Contractor Provides:
 
 * Angle stops & supply lines
 * Bathtub & Shower units installed
@@ -45,9 +45,9 @@ Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing
 
 ## We Provide Bathroom Plumbing in the Following Areas:
 
-[Pasadena, CA][1] | [Arcadia, CA][2] | [Burbank, CA][3] | [Chino, CA][4] | [Diamond Bar, CA][5] | [Glendale, CA][6] | [San Dimas, CA][7] | [La Puente, CA][8] | [Montrose, CA][9] | [San Gabriel, CA][10] | [Temple City, CA][11] | [West Covina, CA][12]
+[Pasadena, CA][0] | [Arcadia, CA][1] | [Burbank, CA][2] | [Chino, CA][3] | [Diamond Bar, CA][4] | [Glendale, CA][5] | [San Dimas, CA][6] | [La Puente, CA][7] | [Montrose, CA][8] | [San Gabriel, CA][9] | [Temple City, CA][10] | [West Covina, CA][11]
 
-[And more][13]
+[And more][12]
 
 ## Why San Gabriel Valley Should Hire Us For Their Bathroom Plumbing
 
@@ -55,22 +55,21 @@ At one time or another, you will require the service and assistance of a San Gab
 
 Read more: 
 
-[http://www.kevinshawplumbing.com/webapp/p/588/bathroom-plumbing\#ixzz42XGp1M1s][14]
+[http://www.kevinshawplumbing.com/webapp/p/588/bathroom-plumbing\#ixzz42XGp1M1s][13]
 
 All content may be subject to copyright by Online-Access, Inc. To view the Terms & Conditions, visit http://terms.online-access.com/webapp/GetPage?pid=1&CO=1 
 
-[0]: null
-[1]: http://www.kevinshawplumbing.com/webapp/p/565
-[2]: http://www.kevinshawplumbing.com/webapp/p/536
-[3]: http://www.kevinshawplumbing.com/webapp/p/540
-[4]: http://www.kevinshawplumbing.com/webapp/p/541
-[5]: http://www.kevinshawplumbing.com/webapp/p/545
-[6]: http://www.kevinshawplumbing.com/webapp/p/549
-[7]: http://www.kevinshawplumbing.com/webapp/p/571
-[8]: http://www.kevinshawplumbing.com/webapp/p/556
-[9]: http://www.kevinshawplumbing.com/webapp/p/562
-[10]: http://www.kevinshawplumbing.com/webapp/p/572
-[11]: http://www.kevinshawplumbing.com/webapp/p/579
-[12]: http://www.kevinshawplumbing.com/webapp/p/583
-[13]: http://www.kevinshawplumbing.com/
-[14]: http://www.kevinshawplumbing.com/webapp/p/588/bathroom-plumbing#ixzz42XGp1M1s
+[0]: http://www.kevinshawplumbing.com/webapp/p/565
+[1]: http://www.kevinshawplumbing.com/webapp/p/536
+[2]: http://www.kevinshawplumbing.com/webapp/p/540
+[3]: http://www.kevinshawplumbing.com/webapp/p/541
+[4]: http://www.kevinshawplumbing.com/webapp/p/545
+[5]: http://www.kevinshawplumbing.com/webapp/p/549
+[6]: http://www.kevinshawplumbing.com/webapp/p/571
+[7]: http://www.kevinshawplumbing.com/webapp/p/556
+[8]: http://www.kevinshawplumbing.com/webapp/p/562
+[9]: http://www.kevinshawplumbing.com/webapp/p/572
+[10]: http://www.kevinshawplumbing.com/webapp/p/579
+[11]: http://www.kevinshawplumbing.com/webapp/p/583
+[12]: http://www.kevinshawplumbing.com/
+[13]: http://www.kevinshawplumbing.com/webapp/p/588/bathroom-plumbing#ixzz42XGp1M1s
