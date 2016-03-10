@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business. Kevin Shaw Plumbing, Inc. is committed to setting the standard for excellence in plumbing in the San Gabriel Valley.'
-datePublished: '2016-03-10T22:30:43.533Z'
-dateModified: '2016-03-10T22:30:37.971Z'
+datePublished: '2016-03-10T22:39:52.446Z'
+dateModified: '2016-03-10T22:39:49.939Z'
 title: Your Bathroom Plumbing Contractor in Little Rock
 author: []
 sourcePath: _posts/2016-03-10-your-bathroom-plumbing-contractor-for-san-gabriel-valley.md
@@ -22,6 +22,8 @@ url: your-bathroom-plumbing-contractor-for-san-gabriel-valley/index.html
 _type: Article
 
 ---
+[Your Little Rock Bathroom Plumber][0]
+
 Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business. Kevin Shaw Plumbing, Inc. is committed to setting the standard for excellence in plumbing in the San Gabriel Valley.
 
 ## Our Little Rock Bathroom Plumbing Contractor Provides:
@@ -48,3 +50,5 @@ Kevin Shaw Plumbing, Inc. is committed to providing the finest bathroom plumbing
 Why San Gabriel Valley Should Hire Us For Their Bathroom Plumbing
 
 At one time or another, you will require the service and assistance of a San Gabriel Valley plumber to help in an unplanned crisis or a plumbing installation. Kevin Shaw Plumbing, Inc can assist you in a variety of ways, including bathroom plumbing, toilet backups, running cold and hot water supplies to the bathroom or kitchen and installing hot water heaters. With several years of experience and customer satisfaction guaranteed, you can trust Kevin Shaw Plumbing, Inc to provide you with quality residential plumbing services.
+
+[0]: null
