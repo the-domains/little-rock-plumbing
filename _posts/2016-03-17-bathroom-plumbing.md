@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Associated Plumbers, Inc. is committed to providing the finest\_bathroom plumbing\_services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business.Associated Plumbers, Inc. is committed to setting the standard for excellence in plumbing in the the Little Rock North Little Rock area."
-datePublished: '2016-03-17T20:47:02.708Z'
-dateModified: '2016-03-17T20:47:02.174Z'
+datePublished: '2016-03-17T21:12:59.650Z'
+dateModified: '2016-03-17T21:12:56.368Z'
 title: Bathroom Plumbing
 author: []
 sourcePath: _posts/2016-03-17-bathroom-plumbing.md
@@ -23,7 +23,6 @@ _type: Blurb
 
 ---
 # [Bathroom Plumbing][0]
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b3472c7bb45793b225807ec7b6ab16f/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fece95fee-2723-4e8b-8de0-432d2bb7685c.jpg&width=560)
 
 Associated Plumbers, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business.Associated Plumbers, Inc. is committed to setting the standard for excellence in plumbing in the the Little Rock North Little Rock area.
 
