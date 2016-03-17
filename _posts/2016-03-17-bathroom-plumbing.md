@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T17:33:45.715Z'
-dateModified: '2016-03-17T17:33:45.216Z'
+datePublished: '2016-03-17T17:35:21.578Z'
+dateModified: '2016-03-17T17:35:08.130Z'
 title: Bathroom Plumbing
 author: []
 sourcePath: _posts/2016-03-17-bathroom-plumbing.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: bathroom-plumbing/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Bathroom Plumbing
