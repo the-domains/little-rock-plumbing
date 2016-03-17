@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Associated Plumbers, Inc. is committed to providing the finest\_bathroom plumbing\_services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business.Associated Plumbers, Inc. is committed to setting the standard for excellence in plumbing in the the Little Rock North Little Rock area."
-datePublished: '2016-03-17T21:28:57.560Z'
-dateModified: '2016-03-17T21:28:54.475Z'
+datePublished: '2016-03-17T21:31:15.203Z'
+dateModified: '2016-03-17T21:31:13.017Z'
 title: Bathroom Plumbing
 author: []
 sourcePath: _posts/2016-03-17-bathroom-plumbing.md
@@ -24,11 +24,8 @@ _type: Blurb
 ---
 # [Bathroom Plumbing][0]
 
-Associated Plumbers, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business.Associated Plumbers, Inc. is committed to setting the standard for excellence in plumbing in the the Little Rock North Little Rock area.
+Associated Plumbers, Inc. is committed to providing the finest bathroom plumbing services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business.Associated Plumbers, Inc. is committed to setting the standard for excellence in plumbing in the the Little Rock North Little Rock area. Our Little Rock  Bathroom Plumbing Contractor Provides: Supply stops & supply lines
 
-Our Little Rock  Bathroom Plumbing Contractor Provides:
-
-* Supply stops & supply lines
 * Bathtub & Shower units installed
 * Bathtub & shower valves installed
 * Bathtub & Shower valves repaired
