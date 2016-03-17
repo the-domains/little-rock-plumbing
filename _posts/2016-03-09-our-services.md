@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Kitchen Plumbing
-datePublished: '2016-03-10T22:42:21.707Z'
-dateModified: '2016-03-10T22:41:52.369Z'
+datePublished: '2016-03-17T16:08:14.144Z'
+dateModified: '2016-03-17T16:08:08.842Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-09-our-services.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: our-services/index.html
-_type: WebPage
+_type: Article
 
 ---
 [Kitchen Plumbing][0]
