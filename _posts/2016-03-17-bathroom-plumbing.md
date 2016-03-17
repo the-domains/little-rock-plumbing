@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Associated Plumbers, Inc. is committed to providing the finest\_bathroom plumbing\_services available to our most valuable resource, the customer. Our customers will receive services and products that meet or exceed their expectations or we will make it right. We have the finest trained personnel to assist our customers at their home or business.Associated Plumbers, Inc. is committed to setting the standard for excellence in plumbing in the the Little Rock North Little Rock area.We offer the following when it comes to bathroom plumbing:"
-datePublished: '2016-03-17T19:33:00.189Z'
-dateModified: '2016-03-17T19:32:54.737Z'
+datePublished: '2016-03-17T19:37:02.739Z'
+dateModified: '2016-03-17T19:36:44.633Z'
 title: Bathroom Plumbing
 author: []
 sourcePath: _posts/2016-03-17-bathroom-plumbing.md
@@ -29,15 +29,14 @@ Associated Plumbers, Inc. is committed to providing the finest bathroom plumbing
 
 Our Little Rock  Bathroom Plumbing Contractor Provides:
 
-* Angle stops & supply lines
-
+* Supply stops & supply lines
 * Bathtub & Shower units installed
 * Bathtub & shower valves installed
 * Bathtub & Shower valves repaired
-* Bathtub waste & overflow repaired or replaced
+* * Bathtub waste & overflow repaired or replaced
 * Broken pipes under the sink, toilet, cabinet and house
 * Decorator fixtures
-* Drain cleaning/stoppages-toilet, lavatory & tub drains
+* * Drain cleaning/stoppages-toilet, lavatory & tub drains
 
 ## We Provide Bathroom Plumbing in the Following Areas:
 
