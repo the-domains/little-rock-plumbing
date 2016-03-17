@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T17:28:03.014Z'
-dateModified: '2016-03-17T17:27:32.758Z'
+datePublished: '2016-03-17T17:30:46.199Z'
+dateModified: '2016-03-17T17:30:44.081Z'
 title: Bathroom Plumbing
 author: []
 sourcePath: _posts/2016-03-17-bathroom-plumbing.md
@@ -25,4 +25,4 @@ _type: Article
 # [Bathroom Plumbing][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece95fee-2723-4e8b-8de0-432d2bb7685c.jpg)
 
-[0]: https://thegrid.ai/little-rock-plumbers/bathroom-plumbing
+[0]: https://thegrid.ai/little-rock-plumbing/bathroom-plumbing
