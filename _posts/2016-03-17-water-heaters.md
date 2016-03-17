@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Tankless Water Heater
-datePublished: '2016-03-17T19:08:12.476Z'
-dateModified: '2016-03-17T19:08:02.515Z'
+datePublished: '2016-03-17T19:55:40.245Z'
+dateModified: '2016-03-17T19:55:29.250Z'
 title: Water Heaters
 author: []
 sourcePath: _posts/2016-03-17-water-heaters.md
@@ -22,6 +22,8 @@ url: water-heaters/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c20780e0-a3c2-4614-9eea-2894b5f5f1d0.jpg)
+
 Tankless Water Heater
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2be87145-a6c5-40d9-8c72-dfbafd06e465.jpg)
 
