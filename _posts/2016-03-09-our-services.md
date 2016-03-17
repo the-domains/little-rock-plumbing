@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Kitchen Plumbing
-datePublished: '2016-03-17T21:14:03.113Z'
-dateModified: '2016-03-17T21:13:53.211Z'
+datePublished: '2016-03-17T21:26:41.659Z'
+dateModified: '2016-03-17T21:26:38.178Z'
 title: Our Services
 author: []
 sourcePath: _posts/2016-03-09-our-services.md
@@ -25,7 +25,6 @@ _type: Article
 [Kitchen Plumbing][0]
 
 [Bathroom Plumbing][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41649bb5-50b2-4fa0-b278-6d8b712e08dd.jpg)
 
 [Water Heaters][2]
 
