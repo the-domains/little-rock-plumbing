@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Gas Storage Tank type Water Heater
-datePublished: '2016-03-17T19:03:02.579Z'
-dateModified: '2016-03-17T19:02:57.836Z'
+description: Tankless Water Heater
+datePublished: '2016-03-17T19:08:12.476Z'
+dateModified: '2016-03-17T19:08:02.515Z'
 title: Water Heaters
 author: []
+sourcePath: _posts/2016-03-17-water-heaters.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-water-heaters.md
-published: true
 url: water-heaters/index.html
-_type: Article
+_type: Blurb
 
 ---
 Tankless Water Heater
